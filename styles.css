@@ -85,8 +85,7 @@ img {
 }
 
 .inner2-border {
-  width: 10%;
-  padding-top: 50px;
+  width: 20%;
 }
 
 footer {
@@ -94,7 +93,6 @@ footer {
   color: #fff;
   text-align: center;
   padding: 5px;
-  position: fixed;
   bottom: 5px;
   width: 100%;
 }
