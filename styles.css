@@ -57,6 +57,7 @@ header nav ul li a {
 .border ul {
   display: inline-block;
   border-style: dotted;
+
   box-sizing: auto;
   background-color: white;
   text-align: right;
@@ -86,6 +87,10 @@ img {
 
 .inner2-border {
   width: 20%;
+}
+
+.inner3-border {
+  margin-top: 20px;
 }
 
 footer {
